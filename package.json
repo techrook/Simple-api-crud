@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "jest": "^29.0.1",
+    "supertest": "^6.2.4"
+  }
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Karim Benzema",
+        "team": "Real Madrid",
+        "id": 1
+    },
+    {
+        "name": "Sadio Mane",
+        "team": "Bayern Munich",
+        "id": 2
+    },
+    {
+        "name": "Vinicius Junior ",
+        "team": "Real Madrid",
+        "id": 3
+    },
+    {
+        "name": "Robert Lewandowski ",
+        "team": "FC Barcelona)",
+        "id": 4
+    },
+    {
+        "name": "Thibaut Courtois",
+        "team": "Real Madrid",
+        "id": 5
+    },
+    {
+        "name": "Mohamed Salah",
+        "team": "Liverpool",
+        "id": 6
+    },
+    {
+        "name": "Kevin De Bruyne ",
+        "team": "Manchester City",
+        "id": 7
+    },
+    {
+        "name": " Luka Modric",
+        "team": "Real Madrid",
+        "id": 8
+    },
+    {
+        "name": "Kylian Mbappe",
+        "team": "PSG",
+        "id": 9
+    },
+    {
+        "name": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "id": 10
+    }
+]
